@@ -1,0 +1,53 @@
+body {
+    background: black;
+    font-family: Roboto;
+}
+.post{
+    height:500px;
+    width:400px;
+    background: white;
+    margin:auto;
+    margin-top: 50px;
+}
+.post .header {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+#primero{
+    display: flex;
+    align-items:center;
+}
+
+#logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#puntovertical {
+    width: 50px;
+    height: 50px;
+}
+
+#myImg {
+    max-width: auto;
+    max-height: auto;
+}
+
+#like {
+    max-width: 25px;
+    max-height: 25px;
+}
+
+#bookmark {
+    max-width: 45px;
+    max-height: 45px;
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    background: white;
+}
