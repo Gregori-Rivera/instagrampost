@@ -18,6 +18,12 @@ body {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+#dv1 {
+    position: relative;
+    left: 10px;
+}
+
 .left{
     display: flex;
     align-items:center;
